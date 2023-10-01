@@ -18,6 +18,12 @@ img{
     margin-top: 10%;
     margin-left: 17%;
 }
+.name{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+}
 .rightside{
     border: 2px solid black;
     width: 59%;
@@ -46,5 +52,4 @@ img{
 ul.myUL {
     display: inline-block;
     text-align: left;
-    margin-left: 25px;
   }
